@@ -9,4 +9,4 @@ let numero2 = leia.questionInt("Digite o segundo numero:");
 
 let soma = numero1 + numero2;
 
-console.log(soma)
+console.log(soma) 
