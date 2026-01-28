@@ -1,12 +1,12 @@
 const leia = require("readline-sync");
 
 console.log("=== Calculadora de Reajuste Salarial ===");
-console.log("1 - Gerente (10%)");
-console.log("2 - Vendedor (7%)");
-console.log("3 - Supervisor (9%)");
-console.log("4 - Motorista (6%)");
-console.log("5 - Estoquista (5%)");
-console.log("6 - Técnico de TI (8%)");
+console.log("1 - Gerente ");
+console.log("2 - Vendedor ");
+console.log("3 - Supervisor ");
+console.log("4 - Motorista ");
+console.log("5 - Estoquista ");
+console.log("6 - Técnico de TI ");
 console.log("========================================");
 
 const nome = leia.question("Nome do Colaborador: ");
